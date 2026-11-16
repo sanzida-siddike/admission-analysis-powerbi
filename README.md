@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that explores what influences university admission decisions across departments, gender, GPA and test scores.
 
-![Dashboard preview](images/Capture.PNG)
+![Dashboard preview](Capture.PNG)
 
 > **Note:** This is a small practice dataset (200 applicants), so the findings are indicative only and should not be treated as statistically conclusive.
 
